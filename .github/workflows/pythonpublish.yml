@@ -9,7 +9,7 @@ on:
 
 jobs:
   deploy:
-
+    if: ${{ github.event.repository.name != 'google-flax' }}
     runs-on: ubuntu-latest
 
     steps:

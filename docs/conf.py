@@ -46,6 +46,8 @@ author = 'The Flax authors'
 
 # -- General configuration ---------------------------------------------------
 
+html_baseurl = "https://QubitPi.github.io/google-flax/"
+
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
